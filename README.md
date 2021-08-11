@@ -45,3 +45,10 @@ Solution
 ## Import the postman collection
 
 1. Open Postman and Import the WebApi.postman_collection.json file
+
+## erratum 
+
+Sorry but I have not time to implement the SPA with aurelia, I have to tell you that I've been foucus more in backed and cloud, I am more a old fashion UI developer (bootstrap, jquery, ASP MVC).
+
+Thanks
+Antonio Avendano
